@@ -1771,9 +1771,9 @@ body:not(.post-template) .post-title {
     }
 
     .blog-logo img {
-        height: 30px;
+        height: 35px;
     }
-
+     
     .menu-button {
         padding: 0 5px;
         border-radius: 0;
